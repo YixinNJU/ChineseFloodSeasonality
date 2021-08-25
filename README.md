@@ -7,4 +7,4 @@ Descriptions of the scripts used in Yang et al. (2021): Climate Leads to Reverse
 5. *PreparePrecipHotspot.m*: Calculate timing of **annual maximum 7-day precipitation** during 1961-2015 and clip time series by location of 6 hotspots.
 6. *PrepareSoilMoistureHotspot.m*: Calculate timing of **annual maximum monthly soil moisture** during 1960-2017 and clip time series by location of 6 hotspots.
 7. *HotspotTrend.R*: Calculate **trends** and do **circular correlation** based on time series obtained from 4-6.
-8. *FloodRainDBSCAN.R*: use **DBSCAN** to do **spatial cluster** based on flood and rainfall timing data.
+8. *FloodRainDBSCAN.R*: Use **DBSCAN** to do **spatial cluster** based on flood and rainfall timing data.
